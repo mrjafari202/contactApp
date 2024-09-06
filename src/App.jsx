@@ -1,10 +1,13 @@
+import Contacts from "./component/Contacts"
+import Header from "./component/Header"
 
 
 function App() {
   
   return (
     <>
-      <h1>Contact App</h1>
+      <Header/>
+      <Contacts/>
     </>
   )
 }
