@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "id": "2",
+      "name": "Jane",
+      "lastName": "Doe",
+      "email": "jane@example.com",
+      "phone": "098-765-4321"
+    },
+    {
+      "id": "6f4e",
+      "name": "fff",
+      "lastName": "ffff",
+      "email": "m.r.jafri202@gmail.com",
+      "phone": "09135324955"
+    },
+    {
+      "id": "ff52",
+      "name": "fff",
+      "lastName": "ffff",
+      "email": "m.r.jafri202@gmail.com",
+      "phone": "09135324955"
+    }
+  ]
+}
