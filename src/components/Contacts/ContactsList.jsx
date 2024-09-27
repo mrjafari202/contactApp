@@ -1,4 +1,4 @@
-// src/component/ContactsList.js
+
 import React from 'react';
 import styles from './ContactList.module.css';
 import ContactItem from './ContactItem';

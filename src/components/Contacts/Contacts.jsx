@@ -1,5 +1,4 @@
-// src/component/Contacts.js
-import React, { useState, useEffect, useContext } from 'react'; // اطمینان از وارد کردن useEffect
+import React, { useState, useEffect, useContext } from 'react';
 import ContactsList from './ContactsList';
 import styles from './Contacta.module.css';
 import input from '../../canstants/input';
