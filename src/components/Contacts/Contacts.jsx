@@ -155,7 +155,7 @@ const Contacts = () => {
 
             {selectedContacts.length > 0 && (
                 <button className={styles.groupDeleteButton} onClick={deleteMultipleHandler}>
-                    Delete Selected Contacts
+                    Delete all
                 </button>
             )}
 
